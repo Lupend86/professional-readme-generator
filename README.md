@@ -12,34 +12,6 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
 
-  ## Description:
-  creates a README using input from user
-
-  ## Installation:
-  Open terminal, type "node index.js" and follow the prompts
-
-  ## Usage:
-  undefined
-
-  ## License:
-  MIT
-
-  ## Contribution:
-  through github
-
-  ## Testing:
-  follows steps to use project
-
-  ## Additional Info:
-  - Github: [Lupend86](https://github.com/Lupend86)
-  - Email: jamesdscottjr@gmail.com 
-## Tabe of Contents
-
-* Description
-* Instillation
-* Usage
-* Additional Info
-
 # Visual Presentation
 
 https://drive.google.com/file/d/1ewHxhDv3P6bXFLlIFO3k2BPSNFWnJmNj/view
